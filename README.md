@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexcrisbrito
 - 👀 I’m interested in computer science and good music
-- 🌱 I’m currently learning C# and the .NET Core Framework
+- 🌱 I’m currently full-time dating C# and the .NET Core Framework
 - 💞️ I’m looking to collaborate on open source projects !
 - 📫 How to reach me britoalexandre549@gmail.com
 

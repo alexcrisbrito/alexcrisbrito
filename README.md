@@ -8,6 +8,7 @@ I'm passionate about software development and love contributing to the community
 - Frameworks and libraries: Spring, Laravel, a bit of Symfony and .NET Framework 
 - Version control: Git, GitHub
 - System Analysis
+- Quality Assurance
 
 ## 💬 Let's Connect
 

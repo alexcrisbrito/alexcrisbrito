@@ -4,7 +4,7 @@ I'm passionate about software development and love contributing to the community
 
 ## 🌱 Skills
 
-- Programming languages: Java, PHP and C#
+- Programming languages: Java and C#
 - Frameworks and libraries: Spring, Laravel, a bit of Symfony and .NET Framework 
 - Version control: Git, GitHub
 - System Analysis
